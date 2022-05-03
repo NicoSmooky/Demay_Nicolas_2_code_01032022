@@ -915,6 +915,9 @@ h4 {
         overflow-x: hidden;
         position: relative;
     }
+    h2{
+        font-size: 19px;
+    }
     h1,
     h2,
     h3,
